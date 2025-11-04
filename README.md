@@ -1,9 +1,7 @@
 <h1 align="center">SQL Problem Solving</h1>
 
 <p align="center">  
-	<br>
-        <img height=40 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
-    <br>
+	<img height=40 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
 </p>
 
 # Description
