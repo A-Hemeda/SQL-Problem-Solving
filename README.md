@@ -4,7 +4,7 @@
 	<img height=33 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
 </p>
 
-# Description
+## Description
 The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
 # Domains
