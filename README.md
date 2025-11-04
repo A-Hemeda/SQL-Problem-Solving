@@ -1,3 +1,5 @@
+<h1 align="center">SQL Problem Solving</h1>
+
 <p align="center">  
 	<br>
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
@@ -6,12 +8,10 @@
     <br>
 </p>
 
-
 # Description
 The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
 # Domains
-
 
 ## Basic Select Challenges
 
