@@ -5,7 +5,7 @@
 </p>
 
 ## Description
-The solutions of all the SQL challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
+### The solutions of all the SQL challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
 # Domains
 
