@@ -5,13 +5,11 @@
 </p>
 
 ## Description
-
 ### The solutions of all the SQL challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
 # Domains
 
 ## Basic Select Challenges
-
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](Basic%20Select/Revising-the-select-Query-1.sql)
@@ -35,9 +33,7 @@
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](Basic%20Select/Employee-Names.sql)
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](Basic%20Select/Employee-Salaries.sql)
 
-
 ## Advanced Select Challenges
-
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](Advanced%20Select/Type%20of%20Triangle.sql) |
@@ -46,9 +42,7 @@
 | 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.sql)|
 | 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
 
-
 ## Aggregation Challenges
-
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) | 
@@ -69,9 +63,7 @@
 | 16| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2019.sql) |
 | 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2020.sql) |
 
-
 ## Basic Join
-
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](Basic%20Join/Asian%20Population.sql) |
@@ -83,17 +75,13 @@
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](/Basic%20Join/Contest%20Leaderboard.sql) |
 
-
 ## Advanced Join
-
 | Number |                                     Challenges                                     |                      Solutions                     |
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](ADVANCE%20JOIN/SQL%20PROJECT%20PLANNING.sql) |
 |    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
 
-
 # References
-
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
 - [Variables in MySQL](https://stackoverflow.com/a/11754790)
 - [Median in MySQL](https://stackoverflow.com/a/7263925)
